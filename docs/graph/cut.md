@@ -53,7 +53,7 @@ low[u] = min(low[u], dfn[v]);
     --8<-- "docs/graph/code/cut/cut_1.cpp"
     ```
 
-## 割边
+## 割边(桥)
 
 和割点差不多，叫做桥。
 
